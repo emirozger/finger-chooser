@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
     private bool gameEnded = false;
     private bool determiningWinner = false;
     private float allFingersPressedTime = 0f;
+
     private Camera mainCamera;
     private Color defaultCamColor;
 
